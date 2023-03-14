@@ -1,0 +1,6 @@
+print ("ingresa un numero")
+primerNumero = int(input())
+print ("Ingresa otro numero")
+segundoNumero = int(input())
+print ("Su resta es")
+print (primerNumero-segundoNumero)
